@@ -1,2 +1,0 @@
-[console_scripts]
-notorg = notorg.cli:main
